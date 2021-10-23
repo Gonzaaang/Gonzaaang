@@ -1,24 +1,21 @@
 ## 👋 Hi, I’m Gonza
 
-### Futuro desarrollador .NET
+### Intento de Back End Dev
 
 
 
- -  :orange_book: Estudiando tecnicatura en programación en UTN.
+ -  :orange_book: Estudiante tecnicatura en programación en UTN.
 
 
 
 
--  :clipboard: Tengo conocimientos básicos de:
+-  :clipboard: Tengo conocimientos en:
 
-    - HTML
-    - CSS
-    - Javascript
-    - React
-    - C#
-    - C++
-    - Java
-    - SQL 
+    - Sql
+    - -Mongo DB
+    - -C #
+    - Python (Django, Pandas, Numpy)
+    - Front End (HTML, CSS, JS)
 
 
 
