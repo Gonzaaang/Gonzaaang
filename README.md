@@ -12,8 +12,8 @@
 -  :clipboard: Tengo conocimientos en:
 
     - Sql
-    - -Mongo DB
-    - -C #
+    - Mongo DB
+    - C #
     - Python (Django, Pandas, Numpy)
     - Front End (HTML, CSS, JS)
 
