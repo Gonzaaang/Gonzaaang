@@ -11,7 +11,7 @@
 
 -  :clipboard: Tengo conocimientos en:
 
-    - Sql - SAS
+    - SQL - SAS - Teradata
     - Python (Django, Pandas, Numpy)
     - Mongo DB
     - C #
