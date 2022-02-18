@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Gonza
 
-### Intento de Back End Dev
+### Intento de Data Analyst
 
 
 
@@ -11,11 +11,12 @@
 
 -  :clipboard: Tengo conocimientos en:
 
-    - Sql
+    - Sql - SAS
+    - Python (Django, Pandas, Numpy)
     - Mongo DB
     - C #
-    - Python (Django, Pandas, Numpy)
-    - Front End (HTML, CSS, JS)
+    
+    
 
 
 
